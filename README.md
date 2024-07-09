@@ -20,6 +20,18 @@ Link to **[interactive report](https://public.tableau.com/views/crash_queensland
 The Queensland Traffic Crash Report provide a user-friendly interface and offer the following views:
 
 ### Overview
+- From 2001 to 2021, the number of crashes in Fatal, Medical Treatment, Minor Injury showed the downward trend. However, the total Hospitalised crashes significantly increased with 48.18%.
+- The number of incidents on weekdays are much greater than that on weekends with the top peak on Friday.
+- July had the most incidents compared to other months. The number of Fatal and Minor Injury crashes was stable during months while Hospitalised and Medical Treatment crashes slightly increased.
+- Early morning rush hours (7am - 9am) and afternoon rush (2pm - 5pm) are the time periods most incidents occur.
+- The total number of incidents increased from 2001 to 2008 with the highest incidents in 2008 and dramatically decreased until 2020. However, the slight increase was observed in 2021, serving as a warning to the government.
 
+<img src="./assets/overview_db.png" width="70%">
 
-<img src="./assets/dashboard_overview.png" width="70%">
+### Crash Distribution
+- Angle, Rear-end, Hit object are the top nature of crashes from 2001 to 2021.
+- Younger women and men (17 to 24) involved in proportionately more incidents. Elderly 75 years old and over was the least group having accidents compared to other groups.
+- There were the significant number of incidents occurred in main roads, Brisbane CBD and surrounding suburbs.
+- Intersection from adjacent approaches was observed from all crash severities in Brisbane CBD.
+
+<img src="./assets/distribution_db.png" width="70%">
